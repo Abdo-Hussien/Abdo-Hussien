@@ -4,7 +4,7 @@ My name is Abdelrahman, and I'm an ASU trained Computer Scientist student intere
 - 🌱 I recently built a website for selling books and trips with an interactive dashboard for managing products and creating complex, useful reports for end users.
 - 🤔 I’m looking for help with sharing my software products to as many people as possible to gain feedback, improve and add new features maybe :)
 
-
+<!--
 <a href="https://github.com/Abdo-Hussien/Magazine-System/pulls">
   <img src="https://img.shields.io/github/issues-pr/Abdo-Hussien/Magazine-System" alt="Open Pull Requests" />
 </a>
@@ -14,6 +14,7 @@ My name is Abdelrahman, and I'm an ASU trained Computer Scientist student intere
 <a href="https://github.com/Abdo-Hussien/Magazine-System/graphs/contributors">
   <img src="https://img.shields.io/github/contributors/Abdo-Hussien/Magazine-System?color=2b9348" alt="Contributors" />
 </a>
+-->
 
 
 ## Things I use on a daily basis

@@ -1,6 +1,5 @@
 ## Hi there 👋
 My name is Abdelrahman, and I'm an ASU trained Computer Scientist student interested in all coding-related work.
-- 🔭 I’m currently working on ...
 - 🌱 I recently built a website for selling books and trips with an interactive dashboard for managing products and creating complex, useful reports for end users.
 - 🤔 I’m looking for help with sharing my software products to as many people as possible to gain feedback, improve and add new features maybe :)
 

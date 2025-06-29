@@ -4,33 +4,38 @@ My name is Abdelrahman, and I'm an ASU trained Computer Scientist student intere
 - 🌱 I recently built a website for selling books and trips with an interactive dashboard for managing products and creating complex, useful reports for end users.
 - 🤔 I’m looking for help with sharing my software products to as many people as possible to gain feedback, improve and add new features maybe :)
 
-  
-<a href="https://github.com/Abdo-Hussien/Magazine-System/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
 
+<a href="https://github.com/Abdo-Hussien/Magazine-System/pulls">
+  <img src="https://img.shields.io/github/issues-pr/Abdo-Hussien/Magazine-System" alt="Open Pull Requests" />
+</a>
+<a href="https://github.com/Abdo-Hussien/Magazine-System/issues">
+  <img src="https://img.shields.io/github/issues/Abdo-Hussien/Magazine-System" alt="Open Issues" />
+</a>
+<a href="https://github.com/Abdo-Hussien/Magazine-System/graphs/contributors">
+  <img src="https://img.shields.io/github/contributors/Abdo-Hussien/Magazine-System?color=2b9348" alt="Contributors" />
+</a>
 
 
 ## Things I use on a daily basis
 
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue">  
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=42b883">  
+ </a>
+  <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=FFD43B">  
  </a>
    <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa">
 </a>
  <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ember.js&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=00758f">  
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=cd6799">
 </a>
 
 

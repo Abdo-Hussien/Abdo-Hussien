@@ -34,9 +34,8 @@ My name is Abdelrahman, and I'm an ASU trained Computer Scientist student intere
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=00758f">  
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=cd6799">
-</a>
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
+
 
 
 

@@ -17,23 +17,6 @@ My name is Abdelrahman, and I'm an ASU trained Computer Scientist student intere
 
 
 ## Things I use on a daily basis
-
-<p align="left">  
-<a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=vue.js&svgfill=42b883">  
- </a>
-  <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=python&svgfill=FFD43B">  
- </a>
-   <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=2d79c7">
-</a>
- <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=00758f">  
-</a>
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=ffc0cd)
 
 

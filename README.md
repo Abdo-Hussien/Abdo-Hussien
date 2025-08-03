@@ -17,8 +17,14 @@ My name is Abdelrahman, and I'm an ASU trained Computer Scientist student intere
 
 
 ## Things I use on a daily basis
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&fill=ffc0cd)
-
+<p align="left">
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=ffc0cd" alt="React" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=next.js&fill=000000" alt="Next.js" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=vue.js&fill=42b883" alt="Vue.js" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=306998" alt="Python" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=flask&fill=000000" alt="Flask" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=sql-server&fill=CC2927" alt="SQL Server" />
+</p>
 
 
 

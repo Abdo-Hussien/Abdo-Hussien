@@ -12,16 +12,50 @@ I’m a CS student at Ain Shams University passionate about building impactful w
 ---
 
 ## 🛠️ Tech Stack I Use
-<p align="left">
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=61DBFB" alt="React" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=next.js&fill=000000" alt="Next.js" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=vue.js&fill=42b883" alt="Vue.js" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=python&fill=3776AB" alt="Python" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=flask&fill=000000" alt="Flask" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=sql-server&fill=CC2927" alt="SQL Server" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=figma&fill=F24E1E" alt="Figma" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=git&fill=F05032" alt="Git" />
-</p>  
+
+<div align="center">
+
+<table>
+<tr>
+<td width="55%" align="left" valign="top">
+
+### 🚀 Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-B07219?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://github-readme-stats-sage-six-40.vercel.app/api/top-langs/?username=Abdo-Hussien&layout=compact&hide=html,css,jupyter%20notebook&theme=jolly" />
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -34,12 +68,21 @@ I’m a CS student at Ain Shams University passionate about building impactful w
 
 ---
 
-## 📫 Connect With Me  
+### 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdelrahman-hussien-sharaf)  
-- 📂 [GitHub Portfolio](https://github.com/Abdo-Hussien/Abdo-Hussien)  
-- 📧 [Abdelrahman.hsharaf@gmail.com](mailto:Abdelrahman.hsharaf@gmail.com)  
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelrahman-hussien-sharaf">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Abdo-Hussien/Abdo-Hussien">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:Abdelrahman.hsharaf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 <!--
 **Abdo-Hussien/Abdo-Hussien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

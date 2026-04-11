@@ -1,18 +1,17 @@
-# Hi there 👋 I'm Abdelrahman Hussien Sharaf  
+# Hi there, I'm Abdelrahman Hussien  
 
-🎓 **Computer Science Student | Aspiring Full-Stack Developer | UI/UX Enthusiast**  
+🎓 **Senior CS Student | Full-Stack Software Developer | UI/UX Enthusiast**  
 
-I’m a 3rd-year Computer Science student at Ain Shams University passionate about building impactful web applications that combine **clean design**, **scalable architecture**, and **great user experiences**.  
+I’m a CS student at Ain Shams University passionate about building impactful web applications that combine **clean design**, **scalable architecture**, and **great user experiences**.
 
-- 💻 Recently developed **Ontherack**, an e-commerce platform for booking trips and purchasing books, with an interactive admin dashboard for advanced reporting.  
-- 🚀 Experienced in designing **secure invoice systems, analytical dashboards, and full-stack SaaS platforms** using **Vue.js, Nuxt.js, React.js, Flask, and SQL Server**.  
-- 🌱 Currently working on **El-Masreya Invoice Form**.  
-- 🤝 Open to **internship and collaboration opportunities** where I can apply my skills, contribute to real-world projects, and continue learning.  
+- 📌 Currently working on [**Sehetna**](https://sehetna.from-masr.com/), a website that connects environmental data with public health, offering map visualizations, interactive charts, AI-powered early-warnings, and many more that supports health monitoring and decision-making.
+- 💻 Recently developed [**Ontherack**](https://ontherack.from-masr.com/), an e-commerce platform for booking trips and purchasing books, with an interactive admin dashboard for advanced reporting.
+- 🚀 Experienced in building **secure invoice systems, analytical dashboards, and full-stack SaaS platforms** using **Vue.js / React.js, Flask, MongoDB and SQL Server**.
+- 🤝 Open to **internship and collaboration opportunities** where I can apply my skills, contribute to real-world projects, and continue learning.
 
 ---
 
-## 🛠️ Tech Stack I Use Daily  
-
+## 🛠️ Tech Stack I Use
 <p align="left">
   <img src="https://readme-components.vercel.app/api?component=logo&logo=react&fill=61DBFB" alt="React" />
   <img src="https://readme-components.vercel.app/api?component=logo&logo=next.js&fill=000000" alt="Next.js" />
